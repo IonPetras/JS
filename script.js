@@ -7,4 +7,4 @@ function passwordGenerator(passwordlenght){
     }
     return generatedPassword;
 }
-console.log(passwordGenerator(12));
+passwordGenerator(12);
